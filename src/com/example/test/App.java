@@ -2,6 +2,8 @@ package com.example.test;
 
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello, world!");
+        while (!false){
+            System.out.println(1);
+        }
     }
 }
