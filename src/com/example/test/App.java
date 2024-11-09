@@ -2,7 +2,7 @@ package com.example.test;
 
 public class App {
     public static void main(String[] args) {
-        while (true){
+        while (!false){
             System.out.println(1);
         }
     }
